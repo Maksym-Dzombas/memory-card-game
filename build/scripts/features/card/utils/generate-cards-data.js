@@ -6,7 +6,6 @@ import { randomlyArray } from "./randomly-array.js";
 export const generateCards = (count) => {
     const cardsGem = [];
     const randomImagesGem = randomlyArray(gemsImage);
-    console.log(randomImagesGem);
     for (let index = 0; index < crypt[count]; index++) {
         const cardGem = {
             id: index + 1,

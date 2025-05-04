@@ -7,7 +7,9 @@ const dashboard = document.querySelector(".wrapper");
 export const cryptTemplate = {
     16: "template-16",
     24: "template-24",
-    32: "template-32"
+    32: "template-32",
+    40: "template-40",
+    48: "template-48"
 };
 export const renderCards = (count) => {
     generateCards(count);

@@ -17,6 +17,16 @@ const timeAnimation = {
         dashboard: 3000,
         victoryText: 4500,
         reloadPage: 7500
+    },
+    40: {
+        dashboard: 3000,
+        victoryText: 4500,
+        reloadPage: 7500
+    },
+    48: {
+        dashboard: 4000,
+        victoryText: 5500,
+        reloadPage: 8500
     }
 };
 export const finishGame = () => {

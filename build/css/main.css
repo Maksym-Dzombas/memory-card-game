@@ -110,6 +110,15 @@
   max-width: 1200px;
   border-radius: 10px;
 }
+.wrapper.template-40 {
+  max-width: 1600px;
+  border-radius: 12px;
+}
+.wrapper.template-48 {
+  height: 800px;
+  max-width: 1800px;
+  border-radius: 12px;
+}
 
 .cards,
 .card,
@@ -135,6 +144,12 @@
 }
 .cards.template-32 {
   grid-template-columns: repeat(8, 1fr);
+}
+.cards.template-40 {
+  grid-template-columns: repeat(10, 1fr);
+}
+.cards.template-48 {
+  grid-template-columns: repeat(12, 1fr);
 }
 
 @keyframes shake-excited {

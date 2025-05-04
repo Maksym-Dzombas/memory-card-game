@@ -14,5 +14,13 @@ export const gemsImage = [
     "gem-13.png",
     "gem-14.png",
     "gem-15.png",
-    "gem-16.png"
+    "gem-16.png",
+    "gem-17.png",
+    "gem-18.png",
+    "gem-19.png",
+    "gem-20.png",
+    "gem-21.png",
+    "gem-22.png",
+    "gem-23.png",
+    "gem-24.png"
 ];
